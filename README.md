@@ -1,4 +1,4 @@
-# first_app
+# Simple Quiz App developed in Flutter
 
 A new Flutter project.
 
